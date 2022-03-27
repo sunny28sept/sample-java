@@ -2,5 +2,7 @@ public class B {
     public static void main(String[] args) {
         System.out.println("India is my country.");
         System.out.println("I love my country.");
+        System.out.println("We are proud Indians.");
+        System.out.println("We are neighbours of China");
     }
 }
