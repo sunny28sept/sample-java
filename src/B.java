@@ -3,5 +3,6 @@ public class B {
         System.out.println("India is my country.");
         System.out.println("I love my country.");
         System.out.println("We are proud Indians.");
+        System.out.println("We are neighbours of China");
     }
 }
